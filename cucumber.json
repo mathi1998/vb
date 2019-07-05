@@ -1,0 +1,228 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-07-05T10:08:51.386Z",
+        "line": 3,
+        "name": "New registration in Testme app",
+        "description": "",
+        "id": "regsiter-for-testme-app;new-registration-in-testme-app",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22302044700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Enter the link in browser",
+            "match": {
+              "location": "one1.link()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8154783000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click sign in page",
+            "match": {
+              "location": "one1.sign()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 639542800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Enter into the login page Click new user",
+            "match": {
+              "location": "one1.new_user()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 119635600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Enter the Username",
+            "match": {
+              "location": "one1.userName()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 90451400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Enter the First name",
+            "match": {
+              "location": "one1.fname()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 86885900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Enter the Last name",
+            "match": {
+              "location": "one1.lname()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 115441700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Enter the Password",
+            "match": {
+              "location": "one1.pass()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 102025000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Enter the Conform Password",
+            "match": {
+              "location": "one1.cpass()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 90547900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Enter the Gender",
+            "match": {
+              "location": "one1.gender()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 201847600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Enter the E-Mail",
+            "match": {
+              "location": "one1.mail()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 141505700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Enter the Mobile Number",
+            "match": {
+              "location": "one1.number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 141319000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Enter the DOB",
+            "match": {
+              "location": "one1.dob()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 225844800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Enter the Address",
+            "match": {
+              "location": "one1.address()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 113519200,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Click the Security Question",
+            "match": {
+              "location": "one1.question()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 87320100,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Enter the Answer",
+            "match": {
+              "location": "one1.answer()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 123551600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Click Register",
+            "match": {
+              "location": "one1.register()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 168300900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Close the tag",
+            "match": {
+              "location": "one1.tag()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "regsiter for Testme app",
+    "description": "",
+    "id": "regsiter-for-testme-app",
+    "keyword": "Feature",
+    "uri": "classpath:aaaa/11.feature",
+    "tags": []
+  }
+]
